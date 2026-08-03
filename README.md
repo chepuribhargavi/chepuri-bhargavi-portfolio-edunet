@@ -1,6 +1,6 @@
-# Bhargavi Portfolio Website
+# Edunet Internship Portfolio Website
 
-A responsive personal portfolio website created to showcase my skills, projects, and journey as a developer.
+A responsive personal portfolio website developed as part of my internship project at Edunet Foundation. This website showcases my skills, projects, and learning journey as a developer.
 
 ## 🚀 Technologies Used
 
@@ -11,11 +11,11 @@ A responsive personal portfolio website created to showcase my skills, projects,
 
 ## ✨ Features
 
-* Responsive design for desktop and mobile devices
-* Personal introduction and about section
+* Responsive design for different screen sizes
+* Personal profile and introduction section
 * Skills showcase
-* Projects section
-* Contact information
+* Projects display
+* Contact section
 * Interactive elements using JavaScript
 
 ## 📂 Project Structure
@@ -30,12 +30,20 @@ portfolio-website/
 └── README.md
 ```
 
-## 🎯 About This Project
+## 🎯 Project Objective
 
-This portfolio website was developed to practice and demonstrate my frontend development skills. It highlights my technical skills, projects, and experience in web development.
+The objective of this project was to design and develop a responsive portfolio website while applying frontend development concepts learned during my internship.
+
+## 🌐 Live Demo
+
+(Add your deployed website link here)
 
 ## 👩‍💻 Author
 
 **Chepuri Bhargavi**
 
 GitHub: (Add your GitHub profile link here)
+
+## 📌 Internship
+
+Developed as part of my internship at **Edunet Foundation**.
